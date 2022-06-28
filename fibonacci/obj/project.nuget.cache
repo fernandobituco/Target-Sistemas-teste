@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x9QsQp4WGYUURViaHsgcXug2m5lUhhgvcRO4AGlWOu0qcKKcYzpQibcQP53VSNlk8IRAXh/pbRIyDVKUPhPjgQ==",
+  "success": true,
+  "projectFilePath": "e:\\Programs\\Target-Sistemas-teste\\fibonacci\\fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bituc\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

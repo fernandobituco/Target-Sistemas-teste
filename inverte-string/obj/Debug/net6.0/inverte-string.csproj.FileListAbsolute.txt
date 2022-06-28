@@ -1,0 +1,15 @@
+E:\Programs\Target-Sistemas-teste\inverte-string\bin\Debug\net6.0\inverte-string.exe
+E:\Programs\Target-Sistemas-teste\inverte-string\bin\Debug\net6.0\inverte-string.deps.json
+E:\Programs\Target-Sistemas-teste\inverte-string\bin\Debug\net6.0\inverte-string.runtimeconfig.json
+E:\Programs\Target-Sistemas-teste\inverte-string\bin\Debug\net6.0\inverte-string.dll
+E:\Programs\Target-Sistemas-teste\inverte-string\bin\Debug\net6.0\inverte-string.pdb
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\inverte-string.csproj.AssemblyReference.cache
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\inverte-string.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\inverte-string.AssemblyInfoInputs.cache
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\inverte-string.AssemblyInfo.cs
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\inverte-string.csproj.CoreCompileInputs.cache
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\inverte-string.dll
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\refint\inverte-string.dll
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\inverte-string.pdb
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\inverte-string.genruntimeconfig.cache
+E:\Programs\Target-Sistemas-teste\inverte-string\obj\Debug\net6.0\ref\inverte-string.dll

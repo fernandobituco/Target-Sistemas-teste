@@ -1,0 +1,15 @@
+E:\Programs\Target-Sistemas-teste\fibonacci\bin\Debug\net6.0\fibonacci.exe
+E:\Programs\Target-Sistemas-teste\fibonacci\bin\Debug\net6.0\fibonacci.deps.json
+E:\Programs\Target-Sistemas-teste\fibonacci\bin\Debug\net6.0\fibonacci.runtimeconfig.json
+E:\Programs\Target-Sistemas-teste\fibonacci\bin\Debug\net6.0\fibonacci.dll
+E:\Programs\Target-Sistemas-teste\fibonacci\bin\Debug\net6.0\fibonacci.pdb
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\fibonacci.csproj.AssemblyReference.cache
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfoInputs.cache
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfo.cs
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\fibonacci.csproj.CoreCompileInputs.cache
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\fibonacci.dll
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\refint\fibonacci.dll
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\fibonacci.pdb
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\fibonacci.genruntimeconfig.cache
+E:\Programs\Target-Sistemas-teste\fibonacci\obj\Debug\net6.0\ref\fibonacci.dll

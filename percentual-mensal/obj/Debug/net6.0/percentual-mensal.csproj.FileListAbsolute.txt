@@ -1,0 +1,15 @@
+E:\Programs\Target-Sistemas-teste\percentual-mensal\bin\Debug\net6.0\percentual-mensal.exe
+E:\Programs\Target-Sistemas-teste\percentual-mensal\bin\Debug\net6.0\percentual-mensal.deps.json
+E:\Programs\Target-Sistemas-teste\percentual-mensal\bin\Debug\net6.0\percentual-mensal.runtimeconfig.json
+E:\Programs\Target-Sistemas-teste\percentual-mensal\bin\Debug\net6.0\percentual-mensal.dll
+E:\Programs\Target-Sistemas-teste\percentual-mensal\bin\Debug\net6.0\percentual-mensal.pdb
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\percentual-mensal.csproj.AssemblyReference.cache
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\percentual-mensal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\percentual-mensal.AssemblyInfoInputs.cache
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\percentual-mensal.AssemblyInfo.cs
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\percentual-mensal.csproj.CoreCompileInputs.cache
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\percentual-mensal.dll
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\refint\percentual-mensal.dll
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\percentual-mensal.pdb
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\percentual-mensal.genruntimeconfig.cache
+E:\Programs\Target-Sistemas-teste\percentual-mensal\obj\Debug\net6.0\ref\percentual-mensal.dll

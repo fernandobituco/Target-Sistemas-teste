@@ -1,0 +1,17 @@
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\vetor-mensal.csproj.AssemblyReference.cache
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\vetor-mensal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\vetor-mensal.AssemblyInfoInputs.cache
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\vetor-mensal.AssemblyInfo.cs
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\vetor-mensal.csproj.CoreCompileInputs.cache
+E:\Programs\Target-Sistemas-teste\vetor-mensal\bin\Debug\net6.0\vetor-mensal.exe
+E:\Programs\Target-Sistemas-teste\vetor-mensal\bin\Debug\net6.0\vetor-mensal.deps.json
+E:\Programs\Target-Sistemas-teste\vetor-mensal\bin\Debug\net6.0\vetor-mensal.runtimeconfig.json
+E:\Programs\Target-Sistemas-teste\vetor-mensal\bin\Debug\net6.0\vetor-mensal.dll
+E:\Programs\Target-Sistemas-teste\vetor-mensal\bin\Debug\net6.0\vetor-mensal.pdb
+E:\Programs\Target-Sistemas-teste\vetor-mensal\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\vetor-mensal.csproj.CopyComplete
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\vetor-mensal.dll
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\refint\vetor-mensal.dll
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\vetor-mensal.pdb
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\vetor-mensal.genruntimeconfig.cache
+E:\Programs\Target-Sistemas-teste\vetor-mensal\obj\Debug\net6.0\ref\vetor-mensal.dll
